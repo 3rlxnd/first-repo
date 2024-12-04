@@ -19,4 +19,17 @@ Repo Description
 
 ## Image
 
-![Whatever](https://picsum.photos/200/300)
+![Whatever](https://picsum.photos/800/400)
+
+## Code
+
+### Code Line
+This is a `line` of code
+
+### Code Block
+```js
+var count = 0
+export func add(x) {
+  count += x
+};
+```
