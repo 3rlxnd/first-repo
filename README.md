@@ -20,7 +20,7 @@ Repo Description
 ## Image
 
 ![Whatever](https://picsum.photos/800/400)
-![Whatsoever](./16Dec2024_Final2_Post.png)
+![Whatsoever](./B3673B13-DC47-423F-A4D6-340C7224FBF6.jpg)
 
 ## Code
 
