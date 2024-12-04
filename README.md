@@ -16,3 +16,7 @@ Repo Description
 ## Link
 
 [Whatever](idontcare.com)
+
+## Image
+
+![Whatever](https://picsum.photos/200/300)
